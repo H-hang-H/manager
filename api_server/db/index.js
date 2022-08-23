@@ -3,8 +3,8 @@ const mysql=require('mysql')
 const db=mysql.createPool({
     host:'112.74.163.235',
     user:'root',
-    // password:'Lhh52455230.',
-    password:'Lhh52455230.',
+    // password:'.',
+    password:'.',
     database:'st'
 })
 //暴露模块
